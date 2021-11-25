@@ -12,7 +12,7 @@ nav #navigation
 {
     background-color: black;
     height: 30px;
-    width: 100%;
+    width: 90%;
     
   
    
@@ -20,7 +20,7 @@ nav #navigation
     text-align: center;
       font-style: oblique;            
     border-style: solid;
-  border-width: 100%;
+  border-width: 90%;
     padding-top: 5px 5px;
 
 }
