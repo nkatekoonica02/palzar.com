@@ -358,39 +358,3 @@ footer a img {
     width:300px;
     height: 80px;
 }
-@media (width: 768px) {
-   nav #navigation
-{
-   background-color: black;
-    height: 30px;
-     width:100%;
-  
-   
-    color:#006699;
-    text-align: center;
-      font-style: oblique;            
-    border-style: solid;
-  border-width: 100%;
-    padding-top: 5px 5px; 
-  
-  
-   
-} 
-    @media (width: 468px) {
-   nav #navigation
-{
-   background-color: black;
-    height: 30px;
-     width:100%;
-  
-   
-    color:#006699;
-    text-align: center;
-      font-style: oblique;            
-    border-style: solid;
-  border-width: 100%;
-    padding-top: 5px 5px; 
-  
-  
-   
-} 
