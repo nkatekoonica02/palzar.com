@@ -361,14 +361,19 @@ footer a img {
 @media (max-width: 768px) {
    nav #navigation
 {
+   background-color: black;
+    height: 30px;
+   max-width: 100%;
+    
+  
    
-  max-width:100%;
-   display: none;
     color:#006699;
     text-align: center;
       font-style: oblique;            
-    padding-top: 5px 5px;
-    margin: 0px 0px 10px 0px;
-    border: solid 2px black;
-
+    border-style: solid;
+  border-width: 100%;
+    padding-top: 5px 5px; 
+  max-width:100%;
+  
+   
 } 
