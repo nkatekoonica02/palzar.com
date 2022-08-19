@@ -358,3 +358,17 @@ footer a img {
     width:300px;
     height: 80px;
 }
+@media (width:768px){
+nav #navigation
+{
+   
+    
+  
+   
+    color:#006699;
+    text-align: center;
+      font-style: oblique;            
+   
+    padding-top: 5px 5px;
+
+    }}
